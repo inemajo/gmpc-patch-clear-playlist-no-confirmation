@@ -1,8 +1,10 @@
 ##
-## Gmpc Patches
 ##
+## Gmpc patchs
 ##
 
-This patch delete querying confirmation for clearing current playlist queue
+The directory name is the version of gmpc
 
-the directory name is the version of gmpc
+This patch do : 
+
+-deleting confirmation for clearing the current play queue
